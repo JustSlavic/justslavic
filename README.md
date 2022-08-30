@@ -4,5 +4,5 @@ My name is Vyacheslav (or Slava for short). Here I try to learn game development
 My first goal was to detatch from SDL library, but also make more usable engine architecture.
 
 - 🔭 I’m currently working on my project 'asuka', where I learn system-specific APIs like Win32, XAudio2, Posix, Alsa, etc.
-- 🌱 I’m currently learning OpenGL rendering side of things
-- 📫 My [e-mail](justslavic@gmail.com)
+- 🌱 I’m currently learning rendering using OpenGL and Direct3D 11, understanding graphics pipeline, projection matrix, and shaders more deeply.
+- 📫 [My e-mail](justslavic@gmail.com)
